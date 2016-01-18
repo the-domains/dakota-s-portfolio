@@ -2,6 +2,7 @@ name: "Dakota's Portfolio"
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
+title: "Dakota's Portfolio"
 cta:
   domain: null
   bucket: null
