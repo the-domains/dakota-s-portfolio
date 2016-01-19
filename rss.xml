@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dakota's Portfolio]]></title>
         <description><![CDATA[Dakota's Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dakota-s-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 18:45:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 01:24:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dakota-s-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Me]]></title>
+            <description><![CDATA[<article><h1>Me</h1><p>Hi I'm Dakota Gallimore. I'm the CEO and founder of Application Hope LLC a design and development firm. I graduated from The University of Virginia's College at Wise with a dual degree in Software Engineering and Computer Science. I've really geared my career focus towards mobile development. Having multiple R&D projects as well as some public projects. My company Application Hope is set to launch their first major project Dreams.Build, the worlds first two-stage funding crowdfunding platform. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af8a8763b09bf951287912ef666bf6b4f8fa927a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dakota-s-portfolio/90f47f7d-3855-410d-b6f9-f9bdff0404d0/index.html</link>
+            <guid isPermaLink="false">90f47f7d-3855-410d-b6f9-f9bdff0404d0</guid>
+            <pubDate>Tue, 19 Jan 2016 01:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome!]]></title>
             <description><![CDATA[<article><h1>Welcome!</h1><p>Welcome to my Portfolio!</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/dakota-s-portfolio/welcome/index.html</link>
             <guid isPermaLink="false">b78a09d3-36b8-492f-911d-cca8d4f7714e</guid>
             <pubDate>Mon, 18 Jan 2016 18:44:47 GMT</pubDate>
         </item>
